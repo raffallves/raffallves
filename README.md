@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raffallves
+- 👀 I’m interested in neuroscience, languages, business, economy, asset alocation, software engineering, AI, philosophy, history, and more
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on React and Node.js stack
+- 📫 How to reach me: rafaelallves44@gmail.com
